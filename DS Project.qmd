@@ -1,0 +1,37 @@
+---
+title: "AI-Enhanced Cycling Route Planner"
+author: "Lin Xiang Hong"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# AI-Enhanced Cycling Route Planner Project Introduction
+
+## Overview
+
+This document serves as the introduction to the "AI-Enhanced Cycling Route Planner" project, spearheaded by Lin Xiang Hong, a student of Applied Artificial Intelligence at the Singapore Institute of Technology. The project aims to leverage advanced AI technologies to optimize cycling routes for safety and efficiency.
+
+## Objectives
+
+- **Enhance Cyclist Safety:** Utilize AI to analyze traffic data and accident statistics to recommend the safest routes.
+- **Improve Route Efficiency:** Employ algorithms to optimize routes based on user preferences, such as shortest distance or scenic value.
+- **User-Friendly Interface:** Develop an intuitive application that allows cyclists to easily plan their routes.
+
+## Technologies
+
+- **Machine Learning:** Use of predictive models to assess route safety and efficiency.
+- **Data Analytics:** Analysis of extensive datasets involving traffic patterns and historical accident data.
+- **Mobile Application Development:** Building a responsive and accessible app for both Android and iOS platforms.
+
+## Expected Outcomes
+
+- **Reduction in Cyclist Accidents:** By providing safer routing options, we anticipate a decrease in the number of accidents involving cyclists.
+- **Increased Cycling Popularity:** With improved routing options, more individuals might be encouraged to cycle, promoting better health and reducing vehicle emissions.
+- **Technological Advancement:** Push the boundaries of applied AI in urban planning and personal transportation.
+
+## Conclusion
+
+The "AI-Enhanced Cycling Route Planner" project combines cutting-edge AI technology with practical applications in urban mobility. By focusing on safety, efficiency, and user experience, this project aims to make cycling a more attractive option for commuters and enthusiasts alike.
+
+Thank you for your interest in this project. For more information or to get involved, please contact Lin Xiang Hong at [linxianghong@email.com](mailto:linxianghong@email.com).
+

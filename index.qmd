@@ -1,0 +1,24 @@
+---
+title: "Introduction of Lin Xiang Hong"
+author: "Lin Xiang Hong"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+
+Hello! My name is **Lin Xiang Hong**, and I am currently a student at the **Singapore Institute of Technology**, pursuing a degree in **Applied Artificial Intelligence**.
+
+## Education
+
+I am dedicated to mastering the complexities of artificial intelligence to leverage its capabilities in solving real-world problems. My academic journey focuses on both the theoretical and practical aspects of AI, ensuring a robust and versatile understanding of this dynamic field.
+
+## Hobbies
+
+When I am not engrossed in my studies, I enjoy cycling. Cycling not only keeps me physically fit but also provides a refreshing break from the mental demands of my studies, allowing me to return to my work with a clear and focused mind.
+
+## Goals
+
+As I continue my academic career, I aim to develop innovative AI solutions that are both effective and ethical. I look forward to contributing to advancements in technology that can benefit society as a whole.
+
+Thank you for taking the time to learn about me. I am excited about the opportunities and challenges that lie ahead in my field of study.
